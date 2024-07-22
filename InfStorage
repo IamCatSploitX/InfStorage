@@ -1,4 +1,4 @@
-local player = game.Players:FindFirstChild("BuyerUserHere")
+local player = game.Players:FindFirstChild("noob_dabomb8")
 if player then
     player:SetAttribute("InfiniteBag", true)
 else
