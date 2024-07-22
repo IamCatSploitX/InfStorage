@@ -1,0 +1,6 @@
+local player = game.Players:FindFirstChild("BuyerUserHere")
+if player then
+    player:SetAttribute("InfiniteBag", true)
+else
+    warn("Player not found")
+end
